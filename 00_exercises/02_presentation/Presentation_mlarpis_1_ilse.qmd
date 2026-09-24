@@ -1,0 +1,25 @@
+---
+title: "Presentation Lecture 2 Exercise 1 "
+author: 
+ - name: Ilse Bosman - 0009-0005-2720-9423
+   orcid: 0009-0005-2720-9423
+format: revealjs
+editor: visual
+theme: dracula
+---
+
+## Equation
+
+This is my favorite equation:
+
+$$Y_{ij} = \beta_{0j} + \beta_{1j} X_{ij} + e_{ij}$$
+
+$$e_{ij} \sim \mathcal{N}(0, \sigma^2_1)$$
+
+## Information
+
+In Summer, I work in an ice cream shop in my hometown **Steenwijk (and Giethoorn)**. One day, I decided to literally track the most chosen flavors. Results:
+
+- Smurf
+- Lemon
+- Strawberry
